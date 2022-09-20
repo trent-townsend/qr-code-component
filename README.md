@@ -21,7 +21,7 @@ A challenge from [Frontend Mentor](https://www.frontendmentor.io/) to code a sim
 ### Links
 
 - Solution URL: [HTML](https://github.com/trent-townsend/qr-code-component/blob/main/index.html), [CSS](https://github.com/trent-townsend/qr-code-component/blob/main/styles.css)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View in browser](https://trent-townsend.github.io/qr-code-component/)
 
 ### Built with
 - Semantic HTML5 markup
